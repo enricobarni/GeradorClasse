@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GeradorClasse
+{
+    internal class GeradorClasse
+    {
+        private string nomeClasse;
+        private string propriedades;
+
+        public void setNomeClasse(string _nomeClasse) { nomeClasse = _nomeClasse; }
+        public void setPropriedades(string _propriedades) { propriedades = _propriedades; }
+
+        public string getNomeClasse() { return nomeClasse; }
+        public string getPropriedades() { return nomeClasse; }
+    }
+}
