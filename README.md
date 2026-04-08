@@ -29,6 +29,7 @@ A camada GeradorClasseBLL foi desenvolvida para atuar como uma barreira de segur
 ## 💻 Destaque Técnico
 O motor de geração produz classes prontas para uso, seguindo o padrão clássico de encapsulamento:
 
+```
 C#
 namespace ProjetoExemplo
 {
@@ -41,6 +42,7 @@ namespace ProjetoExemplo
         // Atributos e métodos gerados automaticamente...
     }
 }
+````
 ## 🛠️ Estrutura do Projeto
 A solução foi organizada seguindo padrões de mercado para separação de conceitos:
 
